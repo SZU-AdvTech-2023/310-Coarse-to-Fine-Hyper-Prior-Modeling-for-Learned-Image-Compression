@@ -1,0 +1,9 @@
+@inproceedings{REPO310,
+    author = "Hu, Yueyu and Yang, Wenhan and Liu, Jiaying",
+    booktitle = "Proceedings of the AAAI Conference on Artificial Intelligence",
+    number = "07",
+    pages = "11013--11020",
+    title = "{Coarse-to-Fine Hyper-Prior Modeling for Learned Image Compression}",
+    volume = "34",
+    year = "2020"
+}
